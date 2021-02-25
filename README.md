@@ -15,4 +15,8 @@
 ![npm](https://img.shields.io/badge/-npm-262626?style=for-the-badge&logo=npm)
 
 ## Follow Me
+[![telegram](https://img.shields.io/badge/-telegram-D8D8D8?style=for-the-badge&logo=telegram)](https://t.me/isamo_a)
+[![vkontakte](https://img.shields.io/badge/-vkontakte-D8D8D8?style=for-the-badge&logo=vk)](https://vk.com/aisamveroirgoibrob)
+[![facebook](https://img.shields.io/badge/-telegram-D8D8D8?style=for-the-badge&logo=facebook)](https://www.facebook.com/isa.agverdiev)
+
 
