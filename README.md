@@ -21,7 +21,8 @@
 [![vkontakte](https://img.shields.io/badge/-vkontakte-FFAB00?style=for-the-badge&logo=)](https://vk.com/aisamveroirgoibrob)
 [![facebook](https://img.shields.io/badge/-facebook-35D4A0?style=for-the-badge&logo=)](https://www.facebook.com/isa.agverdiev)
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+# 
+#
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaAgverdiev&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaAgverdiev&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
