@@ -1,4 +1,4 @@
- ![Header](https://github.com/IsaAgverdiev/IsaAgverdiev/blob/main/assets/12.png)
+ ![Header](https://github.com/IsaAgverdiev/IsaAgverdiev/blob/main/assets/isa.png)
 
 About me
 
