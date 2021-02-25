@@ -1,7 +1,9 @@
  ![Header](https://github.com/IsaAgverdiev/IsaAgverdiev/blob/main/assets/isa.png)
 # About me
 ⌨️ пишу код слева направо &#8594;
+
 🌌 Фанат STAR WARS
+<!-- <br> -->
 🏐 Люблю волейбол
 
 # Languages and Tools
