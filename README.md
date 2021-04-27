@@ -2,9 +2,9 @@
 # About me
 ⌨️ пишу код слева направо &#8594;
 
-🌌 Фанат STAR WARS
-<!-- <br> -->
-🏐 Люблю волейбол
+🌌 Атакую титинов
+
+🏐 Занимаюсь волейболом
 
 # Languages and Tools
 ![html](https://img.shields.io/badge/-Html5-262626?style=for-the-badge&logo=HTML5)
